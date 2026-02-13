@@ -1,5 +1,6 @@
 # Waveform-Design-Technology-of-AFDM-in-ISAC-Systems
 中山大学硕士学位论文《通感一体化系统中的仿射频分复用波形设计技术》
+
 Master thesis of Sun Yat-sen University: "Waveform Design Technology of AFDM in ISAC Systems", the chinese version provided.
 
 通感一体化（Integrated Sensing and Communication, ISAC）作为未来无线通信系统的关键发展方向，对高效的波形设计技术提出了迫切需求。仿射频分复用（Affine Fourier Division Multiplexing, AFDM）因其独特的时频特性，被认为在高动态场景下具有巨大潜力。然而，目前对 AFDM 的内在感知机理研究尚不充分，缺乏针对性的信号处理框架来充分发挥其优势并处理其固有的时延多普勒（Delay Doppler, DD）耦合效应，同时，其关键参数对通感性能的联合影响以及在实际物理信道中的性能表现也有待深入研究与验证。 为此，本文深入研究了 AFDM 波形在 ISAC 系统中的设计问题，旨在填补上述空白，充分挖掘并利用 AFDM 的内在优势，在确保通信可靠性的前提下，显著提升其雷达感知性能。
